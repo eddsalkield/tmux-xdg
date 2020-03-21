@@ -1,0 +1,6 @@
+builddir/
+*.tar.xz
+packaging/fedora/tmux-xdg-*
+packaging/fedora/x86_64/
+packaging/fedora/aarch64/
+*.log
